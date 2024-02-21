@@ -9,4 +9,4 @@
 * 100 %
 ### Заголовок третьего уровня
 [Ссылка на алгоритмику](https://learn.algoritmika.org)
-![Тут должна быть картинка](https://ru.freepik.com/free-vector/happy-boy-jumping-cartoon-character_26350172.htm#query=%D1%81%D1%87%D0%B0%D1%81%D1%82%D0%BB%D0%B8%D0%B2%D1%8B%D0%B9&position=9&from_view=keyword&track=sph&uuid=cf652f4f-f62c-42a2-96d1-b123fb04f302](https://img.freepik.com/free-vector/happy-boy-jumping-cartoon-character_1308-105365.jpg?w=740&t=st=1708532924~exp=1708533524~hmac=224601dbc39abd2320bf9fe5e019f5bf7dd527da32f50344d55c5340a41e5684)https://img.freepik.com/free-vector/happy-boy-jumping-cartoon-character_1308-105365.jpg?w=740&t=st=1708532924~exp=1708533524~hmac=224601dbc39abd2320bf9fe5e019f5bf7dd527da32f50344d55c5340a41e5684)
+![Тут должна быть картинка](![image](https://github.com/idk-dev-ru/FrontendProject/assets/147587552/c2702e30-55b5-4b2a-8194-9dcebcaf9f57)
