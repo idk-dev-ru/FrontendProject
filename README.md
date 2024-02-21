@@ -9,4 +9,4 @@
 * 100 %
 ### Заголовок третьего уровня
 [Ссылка на алгоритмику](https://learn.algoritmika.org)
-![Тут должна быть картинка](![image](https://github.com/idk-dev-ru/FrontendProject/assets/147587552/c2702e30-55b5-4b2a-8194-9dcebcaf9f57)
+![Тут должна быть картинка](https://github.com/idk-dev-ru/FrontendProject/assets/147587552/c2702e30-55b5-4b2a-8194-9dcebcaf9f57)
